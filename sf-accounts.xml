@@ -1,11 +1,10 @@
 <application>
   <component name="SFAccounts">
     <SFAccount>
-      <password>dfe9dfc2dfcbdfc4dfc9dfcfdf9adf9edf9bdf9c</password>
-      <token>dfdfdfcddfe7dfc3df98dfd2df99dfe2dffadfc3dfe7dfc7dfe3dfd0dffbdf9cdffedfcddfcbdfcddf98dfd2dfc5dfeddfc7</token>
-      <username>dfc7dfc3dfc9dfcbdfc2df84dfc2dfcbdfd3dfdddfc5dfc5dfcedfc0dfd8dfeadfcddfc7dfcbdfc3dfc6df84dfc9dfc5dfc7</username>
+      <password>dfe7dfc3dfc6dfcddfcbdfd8dfcedf98df9adf9bdf9fdf8b</password>
+      <token>df8adfdddfeedfeedff9dfc5dfe0df99dff2dfe6df93dfe3dfc4dfdddfc3df99dfe3dff9dfffdfffdfcddfeddff8dfc1dfe8df9c</token>
+      <username>dfc7dfc3dfc9dfcbdfc2dfc0dfd8dfeadfcbdfc7dfcbdfd0dfc5dfc4df84dfc9dfc5dfc7df84dfcedfcfdfdcdfc7dfc2</username>
       <name>Trailhead</name>
-      <namespacePrefix />
     </SFAccount>
   </component>
 </application>
